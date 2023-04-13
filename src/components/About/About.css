@@ -1,0 +1,24 @@
+.image-container > img {
+  height: 317px;
+  border-radius: 10px 10px 0 0;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1A1B21;
+  padding: 0 34px 0 36px;
+}
+
+.about-title {
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.about-description {
+  color: white;
+  font-size: 13px;
+  margin: 0;
+}

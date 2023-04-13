@@ -1,0 +1,20 @@
+.btn-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 24px 0 30px 0;
+  background-color: #1A1B21;
+}
+
+.btn-email, .btn-linkedin {
+  border: none;
+  font-size: 14px;
+  padding: 9px 30px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-linkedin {
+  color: white;
+  background-color: #5093E2;
+}

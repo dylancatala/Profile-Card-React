@@ -1,0 +1,29 @@
+.profile-container {
+  background-color: #1A1B21;
+}
+
+.profile-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+}
+
+.profile-name {
+  color: white;
+  margin: 0;
+}
+
+.profile-job {
+  font-size: 14px;
+  color: #F3BF99;
+  margin: 0;
+}
+
+.profile-website {
+  font-size: 11px;
+  padding-top: 5px;
+  color: #F5F5F5;
+  margin: 0;
+}
